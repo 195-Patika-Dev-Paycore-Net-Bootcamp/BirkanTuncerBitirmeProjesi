@@ -48,3 +48,9 @@ There are 23 operations in total in the project.
 <b>Accept</b>
 
 <b>Reject</b>
+
+![Consumer](https://user-images.githubusercontent.com/97250941/191703642-7703031e-f04e-4a04-8b8b-fc0d313b8422.png)
+![Producer](https://user-images.githubusercontent.com/97250941/191703650-3dbe3efb-a5c8-4625-b606-927efaebfb9b.png)
+![Swagger1](https://user-images.githubusercontent.com/97250941/191703657-9514d52e-bdca-4914-b7f8-76e5db4d60f4.png)
+![Swagger2](https://user-images.githubusercontent.com/97250941/191703662-ed389f46-d180-4e2b-a3fd-68c7496889aa.png)
+
