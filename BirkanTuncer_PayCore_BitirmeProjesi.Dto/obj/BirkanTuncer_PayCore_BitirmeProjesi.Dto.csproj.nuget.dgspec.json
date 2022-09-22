@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Dto\\BirkanTuncer_PayCore_BitirmeProjesi.Dto.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Base\\BirkanTuncer_PayCore_BitirmeProjesi.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Base\\BirkanTuncer_PayCore_BitirmeProjesi.Base.csproj",
+        "projectName": "BirkanTuncer_PayCore_BitirmeProjesi.Base",
+        "projectPath": "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Base\\BirkanTuncer_PayCore_BitirmeProjesi.Base.csproj",
+        "packagesPath": "C:\\Users\\Birkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Birkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Data\\BirkanTuncer_PayCore_BitirmeProjesi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Data\\BirkanTuncer_PayCore_BitirmeProjesi.Data.csproj",
+        "projectName": "BirkanTuncer_PayCore_BitirmeProjesi.Data",
+        "projectPath": "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Data\\BirkanTuncer_PayCore_BitirmeProjesi.Data.csproj",
+        "packagesPath": "C:\\Users\\Birkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Birkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.3.12, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Serilog.Enrichers.Process": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Serilog.Enrichers.Thread": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Dto\\BirkanTuncer_PayCore_BitirmeProjesi.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Dto\\BirkanTuncer_PayCore_BitirmeProjesi.Dto.csproj",
+        "projectName": "BirkanTuncer_PayCore_BitirmeProjesi.Dto",
+        "projectPath": "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Dto\\BirkanTuncer_PayCore_BitirmeProjesi.Dto.csproj",
+        "packagesPath": "C:\\Users\\Birkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Birkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Base\\BirkanTuncer_PayCore_BitirmeProjesi.Base.csproj": {
+                "projectPath": "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Base\\BirkanTuncer_PayCore_BitirmeProjesi.Base.csproj"
+              },
+              "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Data\\BirkanTuncer_PayCore_BitirmeProjesi.Data.csproj": {
+                "projectPath": "C:\\Users\\Birkan\\Desktop\\Dersler\\Windows Form App\\Core\\BirkanTuncer_PayCore_BitirmeProjesi\\BirkanTuncer_PayCore_BitirmeProjesi.Data\\BirkanTuncer_PayCore_BitirmeProjesi.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BirkanTuncer_PayCore_BitirmeProjesi.Base\BirkanTuncer_PayCore_BitirmeProjesi.Base.csproj" />
+    <ProjectReference Include="..\BirkanTuncer_PayCore_BitirmeProjesi.Data\BirkanTuncer_PayCore_BitirmeProjesi.Data.csproj" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
+  </ItemGroup>
+
+</Project>

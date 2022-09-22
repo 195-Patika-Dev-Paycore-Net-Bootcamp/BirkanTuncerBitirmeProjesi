@@ -1,0 +1,17 @@
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\bin\Debug\net6.0\BirkanTuncer_PayCore_BitirmeProjesi.Dto.deps.json
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\bin\Debug\net6.0\BirkanTuncer_PayCore_BitirmeProjesi.Dto.dll
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\bin\Debug\net6.0\BirkanTuncer_PayCore_BitirmeProjesi.Dto.pdb
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\bin\Debug\net6.0\BirkanTuncer_PayCore_BitirmeProjesi.Base.dll
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\bin\Debug\net6.0\BirkanTuncer_PayCore_BitirmeProjesi.Base.pdb
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\obj\Debug\net6.0\BirkanTuncer_PayCore_BitirmeProjesi.Dto.csproj.AssemblyReference.cache
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\obj\Debug\net6.0\BirkanTuncer_PayCore_BitirmeProjesi.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\obj\Debug\net6.0\BirkanTuncer_PayCore_BitirmeProjesi.Dto.AssemblyInfoInputs.cache
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\obj\Debug\net6.0\BirkanTuncer_PayCore_BitirmeProjesi.Dto.AssemblyInfo.cs
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\obj\Debug\net6.0\BirkanTuncer_PayCore_BitirmeProjesi.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\obj\Debug\net6.0\BirkanTuncer_PayCore_BitirmeProjesi.Dto.csproj.CopyComplete
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\obj\Debug\net6.0\BirkanTuncer_PayCore_BitirmeProjesi.Dto.dll
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\obj\Debug\net6.0\refint\BirkanTuncer_PayCore_BitirmeProjesi.Dto.dll
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\obj\Debug\net6.0\BirkanTuncer_PayCore_BitirmeProjesi.Dto.pdb
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\obj\Debug\net6.0\ref\BirkanTuncer_PayCore_BitirmeProjesi.Dto.dll
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\bin\Debug\net6.0\BirkanTuncer_PayCore_BitirmeProjesi.Data.dll
+C:\Users\Birkan\Desktop\Dersler\Windows Form App\Core\BirkanTuncer_PayCore_BitirmeProjesi\BirkanTuncer_PayCore_BitirmeProjesi.Dto\bin\Debug\net6.0\BirkanTuncer_PayCore_BitirmeProjesi.Data.pdb

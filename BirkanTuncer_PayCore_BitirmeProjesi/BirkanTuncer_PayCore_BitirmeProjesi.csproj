@@ -1,0 +1,55 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <UserSecretsId>10efc683-0896-433f-811e-54e37be9c028</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Repository\**" />
+    <Content Remove="Repository\**" />
+    <EmbeddedResource Remove="Repository\**" />
+    <None Remove="Repository\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    
+    <PackageReference Include="StackExchange.Redis" Version="2.6.66" />
+    
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="FluentNHibernate" Version="3.1.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
+    <PackageReference Include="NHibernate" Version="5.3.12" />
+    
+    <PackageReference Include="Serilog.AspNetCore" Version="5.0.0" />
+    <PackageReference Include="Serilog.Enrichers.Environment" Version="2.2.0" />
+    <PackageReference Include="Serilog.Enrichers.Process" Version="2.0.2" />
+    <PackageReference Include="Serilog.Enrichers.Thread" Version="3.1.0" />
+    <PackageReference Include="Serilog.Settings.Configuration" Version="3.3.0" />
+    
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hangfire.PostgreSql" Version="1.9.8" />
+    <PackageReference Include="Hangfire.PostgreSql.Npgsql5" Version="1.9.8" />
+    <PackageReference Include="Hangfire" Version="1.7.28" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="5.0.2" />
+  </ItemGroup>
+  
+  
+  
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="5.0.1" />    
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BirkanTuncer_PayCore_BitirmeProjesi.Data\BirkanTuncer_PayCore_BitirmeProjesi.Data.csproj" />
+    <ProjectReference Include="..\BirkanTuncer_PayCore_BitirmeProjesi.Service\BirkanTuncer_PayCore_BitirmeProjesi.Service.csproj" />
+    <ProjectReference Include="..\RabbitMQ.Consumer\RabbitMQ.Consumer.csproj" />
+    <ProjectReference Include="..\RabbitMQ.Producer\RabbitMQ.Producer.csproj" />
+  </ItemGroup>
+
+</Project>
