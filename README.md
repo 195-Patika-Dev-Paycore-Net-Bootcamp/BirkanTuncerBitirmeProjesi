@@ -5,46 +5,46 @@ Registered users can sell their products, buy other people's products, they can 
 There are 23 operations in total in the project.
 <b>GetAllAccounts</b>
 
-<b>GetAllAccounts</b>
+<b>FindAccountByID</b>
 
-<b>GetAllAccounts</b>
+<b>DeleteAccount</b>
 
-<b>GetAllAccounts</b>
+<b>CreateAccount</b>
 
-<b>GetAllAccounts</b>
+<b>UpdateAccount</b>
 
-<b>GetAllAccounts</b>
+<b>Category Get</b>
 
-<b>GetAllAccounts</b>
+<b>Category Post</b>
 
-<b>GetAllAccounts</b>
+<b>Category GetByID</b>
 
-<b>GetAllAccounts</b>
+<b>Category Delete</b>
 
-<b>GetAllAccounts</b>
+<b>Category Put</b>
 
-<b>GetAllAccounts</b>
+<b>Login</b>
 
-<b>GetAllAccounts</b>
+<b>Product Get</b>
 
-<b>GetAllAccounts</b>
+<b>Product Post</b>
 
-<b>GetAllAccounts</b>
+<b>Product GetByID</b>
 
-<b>GetAllAccounts</b>
+<b>Product Delete</b>
 
-<b>GetAllAccounts</b>
+<b>Product Put</b>
 
-<b>GetAllAccounts</b>
+<b>List My Offers</b>
 
-<b>GetAllAccounts</b>
+<b>List My Orders</b>
 
-<b>GetAllAccounts</b>
+<b>List My Offered Products</b>
 
-<b>GetAllAccounts</b>
+<b>Make An Offer</b>
 
-<b>GetAllAccounts</b>
+<b>Buy</b>
 
-<b>GetAllAccounts</b>
+<b>Accept</b>
 
-<b>GetAllAccounts</b>
+<b>Reject</b>
